@@ -71,11 +71,11 @@ Sudoku Puzzle
 Use arrow keys or WASD to move, 1-9 to place numbers, 0 to clear. 'q' to quit.
 Current position: [1,1]
 
- 5  .  . | .  .  . | .  8  . 
+[5] .  . | .  .  . | .  8  . 
  .  2  . | .  .  . | .  .  6 
  .  .  . | 5  .  . | .  .  . 
 -----------------------
- . [.] . | .  1  . | .  .  . 
+ .  .  . | .  1  . | .  .  . 
  .  .  4 | .  .  . | 2  .  . 
  .  .  . | .  7  . | .  .  . 
 -----------------------
